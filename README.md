@@ -28,9 +28,13 @@ Finally, the result is shown on a display (HDMI monitor).
 ### Key features:
 
 Barcode Type Detection format support: QR, MicroQR, AZTEC, DataMatrix, HanXin.
+
 Barcode Decoding format support: QR, AZTEC, DataMatrix.
-Barcode Type Detection performance: 8~12ms.
-Total duration(detection+decoding): 12~16ms.
+
+Barcode Type Detection performance: 8 to 12ms.
+
+Total duration(detection+decoding): 12 to 16ms.
+
 ([DRP](https://www.renesas.com/eu/en/application/technologies/drp)).
 
 

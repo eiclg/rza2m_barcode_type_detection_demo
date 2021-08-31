@@ -4,7 +4,7 @@ Barcode Type Detection Demo with [RZ/A2M](https://www.renesas.com/eu/en/products
 
 <p align="center"> 
 	<img src="https://github.com/eiclg/rza2m_barcode_type_detection_demo/blob/master/barcode_type_detection_demo.jpg" alt="">
-	<img src=" https://github.com/eiclg/rza2m_barcode_type_detection_demo/blob/master / barcode_type_detection_concept.jpg " alt="">
+	<img src="https://github.com/eiclg/rza2m_barcode_type_detection_demo/blob/master/barcode_type_detection_concept.jpg" alt="">
 </p>
 
 This demo can quickly identify 5 kinds of barcode encoding formats including QR, Micro QR, DataMatrix, AZTec and HanXin code in 8~10ms when data is received from a 1280x720 (1 million) camera 

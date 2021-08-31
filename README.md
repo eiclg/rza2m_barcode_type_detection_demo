@@ -27,10 +27,10 @@ Finally, the result is shown on a display (HDMI monitor).
 
 ### Key features:
 
-Barcode Type Detection format support: QR, MicroQR, AZTEC, DataMatrix, HanXin
-Barcode Decoding format support: QR, AZTEC, DataMatrix
-Barcode Type Detection performance: 8~12ms
-Total duration(detection+decoding): 12~16ms
+Barcode Type Detection format support: QR, MicroQR, AZTEC, DataMatrix, HanXin.
+Barcode Decoding format support: QR, AZTEC, DataMatrix.
+Barcode Type Detection performance: 8~12ms.
+Total duration(detection+decoding): 12~16ms.
 ([DRP](https://www.renesas.com/eu/en/application/technologies/drp)).
 
 
@@ -38,7 +38,7 @@ Total duration(detection+decoding): 12~16ms
 ### More:
 
 Please check the 
-[Application Note](https://github.com/eiclg/ rza2m_barcode_type_detection_demo/blob/master/rza2m_barcode_type_freertos_gcc_evk/doc/RZA2M_Barcode_Type_Detection_demo_ApplicationNote_20210816.pdf)
+[Application Note](https://github.com/eiclg/rza2m_barcode_type_detection_demo/blob/master/rza2m_barcode_type_freertos_gcc_evk/doc/RZA2M_Barcode_Type_Detection_demo_ApplicationNote_20210816.pdf)
 for more details.
 
 Please contact your local Renesas Sales representative in case you like to get more information about [RZ/A2M](https://www.renesas.com/eu/en/products/microcontrollers-microprocessors/rz-cortex-a-mpus/rza2m-high-speed-embedded-ai-based-image-processing-microprocessors-dynamically-reconfigurable-processor), [DRP](https://www.renesas.com/eu/en/application/technologies/drp)

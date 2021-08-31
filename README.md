@@ -1,0 +1,1 @@
+# rza2m_barcode_type_detection_demo

@@ -22,12 +22,16 @@ Finally, the result is shown on a display (HDMI monitor).
 
 2. [Gadget Renesas board “GR-MANGO”](https://www.renesas.com/eu/en/products/gadget-renesas/boards/gr-mango)  
    [e²studio](https://www.renesas.com/eu/en/software-tool/e-studio) project name: “rza2m_barcode_type_freertos_gcc_grmango”  
-   ([e²studio for GR-MANGO](https:// github.com/eiclg/rza2m_barcode_type_detection_demo/blob/master/rza2m_barcode_type_freertos_gcc_grmango/doc/EPSD-IMB-20-0107-02_RZA2M_SoftwarePackage_for_GR-MANGO_Development_Environment_Construction.pdf); [GR-MANGO 'hands-on'](https://github.com/eiclg/rza2m_barcode_type_detection_demo/blob/master/rza2m_barcode_type_freertos_gcc_grmango/doc/EPSD-IMB-20-0106-01_RZA2M_SoftwarePackage_for_GR-MANGO_Hands_on_Training.pdf))
+   ([e²studio for GR-MANGO](https://github.com/eiclg/rza2m_barcode_type_detection_demo/blob/master/rza2m_barcode_type_freertos_gcc_grmango/doc/EPSD-IMB-20-0107-02_RZA2M_SoftwarePackage_for_GR-MANGO_Development_Environment_Construction.pdf); [GR-MANGO 'hands-on'](https://github.com/eiclg/rza2m_barcode_type_detection_demo/blob/master/rza2m_barcode_type_freertos_gcc_grmango/doc/EPSD-IMB-20-0106-01_RZA2M_SoftwarePackage_for_GR-MANGO_Hands_on_Training.pdf))
 
 
 ### Key features:
 
-Performance of 5-6 fps by accelerating the image pre-processing with the Dynamically Reconfigurable Processor ([DRP](https://www.renesas.com/eu/en/application/technologies/drp)).
+Barcode Type Detection format support: QR, MicroQR, AZTEC, DataMatrix, HanXin
+Barcode Decoding format support: QR, AZTEC, DataMatrix
+Barcode Type Detection performance: 8~12ms
+Total duration(detection+decoding): 12~16ms
+([DRP](https://www.renesas.com/eu/en/application/technologies/drp)).
 
 
 
